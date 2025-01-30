@@ -11,7 +11,7 @@ body {
     height: 100vh;
 }
 
-.container {
+#pics {
     text-align: center;
     background: #ffffff;
     padding: 2rem;
